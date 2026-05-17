@@ -1,0 +1,5 @@
+.env
+venv/
+temp.pdf
+__pycache__/
+*.pyc
